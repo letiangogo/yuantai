@@ -5,7 +5,9 @@
 **Contact**: zhijundi@qq.com  
 **Website**: https://yuantai.io
 **Zenodo**: [10.5281/zenodo.19899832](https://zenodo.org/records/19899832)  
-**Figshare**: [10.6084/m9.figshare.32129962](https://doi.org/10.6084/m9.figshare.32129962)
+**Figshare**: [10.6084/m9.figshare.32129962](https://doi.org/10.6084/m9.figshare.32129962)  
+**TSA**: [TSA-01-20260429831262052](https://file.tsa.cn/)
+
 ---
 
 ## About the Model
@@ -16,21 +18,20 @@ The Meta-State Cosmological Model is a theoretical framework derived from first 
 
 ## Core Literature
 
-| No. | Title | Description |
+| No. | Title | File |
 |---|---|---|
-| Paper 1 | *Meta-State Cosmological Model: A Narrative* | Cosmic creation epic |
-| Paper 2 | *Meta-State Cosmological Model: From First Principles to a Cosmic Evolutionary Framework* | Core academic paper |
-| Paper 4 | *The Growth History of Our Bubble Universe* | Rule-Wall voyage epic |
+| Paper 1 | *Meta-State Cosmological Model: A Narrative* | [PDF](literature/Meta-State%20Cosmological%20Model-%20A%20Narrative.pdf) |
+| Paper 2 | *Meta-State Cosmological Model: From First Principles to a Cosmic Evolutionary Framework* | [PDF (EN)](literature/Meta-State%20Cosmological%20Model-%20From%20First%20Principles%20to%20a%20Cosmic%20Evolutionary%20Framework.pdf) · [PDF (Bilingual)](literature/Meta-State%20Cosmological%20Model%20-%20From%20First%20Principles%20to%20a%20Cosmic%20Evolutionary%20Framework%20(Version%200.2.1%2C%20English%20Chinese%20Bilingual).pdf) |
+| Paper 4 | *The Growth History of Our Bubble Universe* | [PDF](literature/The%20Growth%20History%20of%20Our%20Bubble%20Universe.pdf) |
 
 > Paper 3 has been merged into Paper 2.
 
 ## Introductory Documents
 
-| Document | Description |
+| Document | File |
 |---|---|
-| To the Reader: An Invitation from the Explorer | Collaboration invitation letter |
-| Intellectual Property and Adaptation Rights Statement | Including Core Elements Handbook |
-| Public Statement on Long-Term Development | Three-stage roadmap |
+| To the Reader: An Invitation from the Explorer | [PDF](literature/To%20the%20Reader%20-%20An%20Invitation%20from%20the%20Explorer.pdf) |
+| Author Statement / 作者声明 | [PDF (EN)](literature/Author%20Statement.pdf) · [PDF (CN)](literature/%E4%BD%9C%E8%80%85%E5%A3%B0%E6%98%8E.pdf) |
 
 ## Collaboration Invitation
 
@@ -53,7 +54,7 @@ All substantive contributors will be listed in the collaboration roster.
 
 ## License
 
-The model literature is licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Adaptation of core concepts and logical structure requires written permission from the collaboration team. See the Intellectual Property and Adaptation Rights Statement for details.
+The model literature is licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). Adaptation of core concepts and logical structure requires written permission from the collaboration team. See the Author Statement for details.
 
 ---
 
@@ -65,21 +66,19 @@ The model literature is licensed under [CC BY-ND 4.0](https://creativecommons.or
 
 ## 核心文献
 
-| 编号 | 名称 | 说明 |
+| 编号 | 名称 | 文件 |
 |---|---|---|
-| 文献1 | 元态宇宙模型叙事 | 宇宙创世史诗 |
-| 文献2 | 元态宇宙模型：从第一性原理到宇宙演化框架 | 核心学术论文 |
-| 文献4 | 我们泡泡宇宙的成长史 | 规则墙航行史诗 |
+| 文献1 | 元态宇宙模型叙事 | [PDF](literature/%E5%85%83%E6%80%81%E5%AE%87%E5%AE%99%E6%A8%A1%E5%9E%8B%E5%8F%99%E4%BA%8B.pdf) |
+| 文献2 | 元态宇宙模型：从第一性原理到宇宙演化框架 | [PDF (CN)](literature/%E5%85%83%E6%80%81%E5%AE%87%E5%AE%99%E6%A8%A1%E5%9E%8B%EF%BC%9A%E4%BB%8E%E7%AC%AC%E4%B8%80%E6%80%A7%E5%8E%9F%E7%90%86%E5%88%B0%E5%AE%87%E5%AE%99%E6%BC%94%E5%8C%96%E6%A1%86%E6%9E%B6.pdf) |
+| 文献4 | 我们泡泡宇宙的成长史 | [PDF](literature/%E6%88%91%E4%BB%AC%E6%B3%A1%E6%B3%A1%E5%AE%87%E5%AE%99%E7%9A%84%E6%88%90%E9%95%BF%E5%8F%B2.pdf) |
 
 > 文献3已合并至文献2。
 
 ## 前置文件
 
-| 文件 | 说明 |
+| 文件 | 链接 |
 |---|---|
-| 致读者：来自探索者的邀请 | 共建邀请信 |
-| 知识产权与改编授权声明 | 含核心要素手册附件 |
-| 关于元态宇宙模型长期发展的公开声明 | 三阶段发展路线图 |
+| 致读者：来自探索者的邀请 | [PDF](literature/%E8%87%B4%E8%AF%BB%E8%80%85.pdf) |
 
 ## 共建邀请
 
@@ -102,4 +101,4 @@ The model literature is licensed under [CC BY-ND 4.0](https://creativecommons.or
 
 ## 许可
 
-本模型文献采用 [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/) 许可。核心概念与逻辑结构的改编须经共建团队书面许可，详见《知识产权与改编授权声明》。
+本模型文献采用 [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/) 许可。核心概念与逻辑结构的改编须经共建团队书面许可，详见《作者声明》。
