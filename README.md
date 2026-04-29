@@ -4,7 +4,8 @@
 **Author**: Li Zhijun  
 **Contact**: zhijundi@qq.com  
 **Website**: https://yuantai.io
-
+**Zenodo**: [10.5281/zenodo.19899832](https://zenodo.org/records/19899832)  
+**Figshare**: [10.6084/m9.figshare.32129962](https://doi.org/10.6084/m9.figshare.32129962)
 ---
 
 ## About the Model
