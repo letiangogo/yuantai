@@ -7,7 +7,7 @@
 **Zenodo**: [10.5281/zenodo.19899832](https://zenodo.org/records/19899832)  
 **Figshare**: [10.6084/m9.figshare.32129962](https://doi.org/10.6084/m9.figshare.32129962)  
 **TSA**: [TSA-01-20260429831262052](https://file.tsa.cn/)
-**贴吧 (中文社区)**: https://tieba.baidu.com/f?kw=元态宇宙模型
+**贴吧 (中文社区)**: https://tieba.baidu.com/f?kw=元态宇宙
 ---
 
 ## About the Model
