@@ -3,7 +3,7 @@
 **Version**: 0.2.1  
 **Author**: Li Zhijun  
 **Contact**: zhijundi@qq.com  
-**Website**: https://yuantai.io
+**Website**: https://yuantai.io  https://yuantai.ac.cn/
 **Zenodo**: [10.5281/zenodo.19899832](https://zenodo.org/records/19899832)  
 **Figshare**: [10.6084/m9.figshare.32129962](https://doi.org/10.6084/m9.figshare.32129962)  
 **TSA**: [TSA-01-20260429831262052](https://file.tsa.cn/)
