@@ -2,6 +2,7 @@
 
 **Version**: 0.2.1  
 **Author**: Li Zhijun  
+**ORCID**: https://orcid.org/0009-0004-8456-7107  
 **Contact**: zhijundi@qq.com  
 **Website**: https://yuantai.io  https://yuantai.ac.cn/
 **Zenodo**: [10.5281/zenodo.19899832](https://zenodo.org/records/19899832)  
