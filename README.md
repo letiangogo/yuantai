@@ -13,7 +13,7 @@
 
 ## About the Model
 
-The Meta-State Cosmological Model is a theoretical framework derived from first principles. Starting from two direct observational facts—the universe is ordered and the universe is full—it deduces, through pure logical inference, an alternative paradigm to the standard ΛCDM model.
+The Meta-State Cosmological Model is a logical deduction framework based on first principles. It does not start from existing physical formulas or paradigms, but takes observational facts of the universe as its anchor, and through pure logical progressive deduction, proposes the Meta-State ontology of Ji-Kong and Ji-You duality, along with a complete self-consistent framework encompassing the Rule-Wall, Chaotic Void, and Bubble Universe evolution. The model is currently at version v0.2.1, fully open for collaboration, and welcomes all rationally-minded thinkers to participate in scrutiny, criticism, and refinement.
 
 > This is not a completed temple waiting for believers. It is a foundation just laid, waiting for those willing to add their bricks and mortar.
 
@@ -61,7 +61,7 @@ The model literature is licensed under [CC BY-ND 4.0](https://creativecommons.or
 
 # 关于本模型
 
-元态宇宙模型是一个基于第一性原理的宇宙学理论框架。它从两个直接观测事实出发——宇宙是有序的和宇宙是充盈的——通过纯逻辑推演，构建出一套替代标准ΛCDM模型的新范式。
+元态宇宙模型是一套基于第一性原理的逻辑推演框架。它不从现有物理公式与范式出发，而是以宇宙的观测事实为锚，通过纯逻辑递进推演，提出极空—极有二元对偶的元态本体，以及规则墙、混沌虚空、泡泡宇宙演化整套自洽框架。模型现处于v0.2.1版本，完全开放共建，欢迎所有持理性态度的思考者参与审视、批评与完善。
 
 > 这不是一座已经完工的殿堂，而是一片刚刚打下的地基，等待所有愿意添砖加瓦的人。
 
